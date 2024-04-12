@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Apr 2024 12:56:10 at https://www.webstrot.com/html/gracechurch/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.webstrot.com/html/gracechurch/index.html -O1 "C:\Users\simon\Desktop\My_Projects\Web\Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/css/owl.video.play.png (from https://www.webstrot.com/html/gracechurch/css/owl.carousel.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/gridtile.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/gridtile_white.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/gridtile_3x3.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/gridtile_3x3_white.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/coloredbg.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:27	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/js/plugin/assets/loader.gif (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/settings.css)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/Popover%20requires%20tooltip.js (from https://www.webstrot.com/html/gracechurch/js/bootstrap.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/themepunch.revolution.min.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.revolution.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/jquery.themepunch.revolution.min.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.revolution.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/jquery.themepunch.revolution.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.revolution.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/images/transparent.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.revolution.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/assets/transparent.png (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.revolution.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/gracechurch/TweenLite.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.tools.min.js)
+13:00:31	Error: 	"Not Found" (404) at link https://webstrot.com/html/TweenLite.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/jquery.themepunch.tools.min.js)
+13:00:31	Warning: 	Moved Permanently for https://www.webstrot.com/html/gracechurch/Version/
+13:00:31	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.webstrot.com/html/gracechurch/Version/ and https://webstrot.com/html/gracechurch/Version/
+13:00:31	Warning: 	File has moved from https://www.webstrot.com/html/gracechurch/Version/ to https://webstrot.com/html/gracechurch/Version/
+13:00:31	Warning: 	Retry after error 504 (Gateway Time-out) at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/revolution.extension.video.min.js)
+13:00:31	Warning: 	Retry after error 504 () at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/revolution.extension.video.min.js)
+13:00:31	Error: 	"" (504) after 2 retries at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://www.webstrot.com/html/gracechurch/js/plugin/rs_slider/revolution.extension.video.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 21 seconds : 176 links scanned, 156 files written (6318106 bytes overall) [3895099 bytes received at 14923 bytes/sec], 5218836 bytes transferred using HTTP compression in 83 files, ratio 26%, 16.3 requests per connection
+(16 errors, 5 warnings, 0 messages)
